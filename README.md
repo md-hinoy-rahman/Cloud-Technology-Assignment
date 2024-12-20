@@ -1,4 +1,4 @@
-# Cloud-Technology-Assignment
+# Cloud-Technologies-Assignment
 # Project Title: Uncovering Job Market Insights Using Spark 
 
 ## Authors:
