@@ -19,6 +19,7 @@ This project aims to leverage PySpark's powerful capabilities for big data proce
 - Google Colab
 - Google Drive
 - Pandas
+- Tableau
 - Power BI
 - Python Libraries (e.g., Matplotlib, Seaborn)
 
