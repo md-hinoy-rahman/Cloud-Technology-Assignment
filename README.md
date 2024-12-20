@@ -9,7 +9,7 @@
 ## Contribution:
 - DHANUSH ARAVIND ARUN PRAKASH: Data Gathering, Extracting, Pre-processing, and Cleaning. 
 - MD HINOY RAHMAN: Data Loading, Transformation, Processing, Statistical Analysis, PySpark Application Creation.
-- SHAHUL HAMEED ALI KADER BATCHA MOHAMED: Data Extracting, Data Exlploratory Analysis, Explanatory Analysis. 
+- SHAHUL HAMEED ALI KADER BATCHA MOHAMED: Data Extracting, Data Exploratory Analysis, Explanatory Analysis, Visualization Webapp. 
 
 ## Description:
 This project aims to leverage PySpark's powerful capabilities for big data processing to develop an interactive visualization app. The app provides insights into the relationship between mean annual salaries and the cost of living index across different countries. By analyzing a large dataset, the project identifies trends, patterns, and correlations to answer whether higher living costs correlate with higher earnings.
