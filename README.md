@@ -8,7 +8,7 @@
 
 ## Contribution:
 - DHANUSH ARAVIND ARUN PRAKASH: Data Gathering, Extracting, Pre-processing, and Cleaning. 
-- MD HINOY RAHMAN: Data Loading, Processing, Statistical Analysis, PySpark Application Creation.
+- MD HINOY RAHMAN: Data Loading, Transformation, Processing, Statistical Analysis, PySpark Application Creation.
 - SHAHUL HAMEED ALI KADER BATCHA MOHAMED: Data Extracting, Data Exlploratory Analysis, Explanatory Analysis. 
 
 ## Description:
