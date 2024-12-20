@@ -1,5 +1,5 @@
 # Cloud-Technology-Assignment
-# Project Title: Big Data Exploration, Analysis and Visualization Using PySpark
+# Project Title: Uncovering Job Market Insights Using Spark 
 
 ## Authors:
 - MD HINOY RAHMAN <mdhinoy.rahman2@mail.dcu.ie>
